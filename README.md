@@ -156,8 +156,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se à vontade 
 
 Se tiver dúvidas ou sugestões, entre em contato:
 
-- **Email**: seu-email@exemplo.com
-- **GitHub**: [seu-usuario](https://github.com/seu-usuario)
+- **Email**: gustavo.couty@hotmail.com
+- **GitHub**: [Gustavo de Souza Coutinho](https://github.com/Gustavo-Souza-Coutinho)
 
 ---
 
