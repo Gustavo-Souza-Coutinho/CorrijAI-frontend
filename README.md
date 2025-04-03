@@ -4,7 +4,7 @@ Bem-vindo ao repositório do **CorrijAI Frontend**, a interface de usuário para
 
 ---
 
-## 📋 Índice
+##  Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
 - [Funcionalidades](#funcionalidades)
@@ -18,7 +18,7 @@ Bem-vindo ao repositório do **CorrijAI Frontend**, a interface de usuário para
 
 ---
 
-## 🧐 Sobre o Projeto
+## Sobre o Projeto
 
 O **CorrijAI Frontend** é a interface gráfica que permite aos usuários interagir com o sistema **CorrijAI**. Ele foi projetado para ser intuitivo, responsivo e acessível, garantindo uma experiência de usuário agradável em qualquer dispositivo.
 
@@ -26,7 +26,7 @@ O objetivo principal do projeto é permitir que os usuários insiram textos, rec
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Correção de Textos**: Envie textos para análise e receba correções detalhadas.
 - **Sugestões de Melhorias**: Receba feedback sobre gramática, ortografia e estilo.
@@ -36,7 +36,7 @@ O objetivo principal do projeto é permitir que os usuários insiram textos, rec
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## Estrutura do Projeto
 
 A estrutura do projeto foi organizada para facilitar a manutenção e escalabilidade. Abaixo está uma visão geral dos diretórios e arquivos principais:
 
@@ -58,7 +58,7 @@ CorrijAI-frontend/
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
@@ -71,7 +71,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
 
 ---
 
-## ✅ Pré-requisitos
+## Pré-requisitos
 
 Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
@@ -80,7 +80,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas em s
 
 ---
 
-## 🚀 Instalação e Configuração
+## Instalação e Configuração
 
 Siga os passos abaixo para configurar o projeto localmente:
 
@@ -115,7 +115,7 @@ Siga os passos abaixo para configurar o projeto localmente:
 
 ---
 
-## 📖 Como Usar
+## Como Usar
 
 1. Acesse a aplicação no navegador.
 2. Insira o texto que deseja corrigir no campo de entrada.
@@ -125,7 +125,7 @@ Siga os passos abaixo para configurar o projeto localmente:
 
 ---
 
-## 🤝 Contribuição
+## Contribuição
 
 Contribuições são sempre bem-vindas! Siga os passos abaixo para contribuir:
 
@@ -146,13 +146,7 @@ Contribuições são sempre bem-vindas! Siga os passos abaixo para contribuir:
 
 ---
 
-## 📜 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se à vontade para usá-lo e modificá-lo conforme necessário.
-
----
-
-## 📞 Contato
+## Contato
 
 Se tiver dúvidas ou sugestões, entre em contato:
 
@@ -161,4 +155,4 @@ Se tiver dúvidas ou sugestões, entre em contato:
 
 ---
 
-Obrigado por conferir o **CorrijAI Frontend**! 🎉
+Obrigado por conferir o **CorrijAI Frontend**! 
