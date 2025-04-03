@@ -1,0 +1,13 @@
+#Sat Nov 30 19:03:26 BRT 2024
+path.3=4/classes.dex
+path.2=1/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=C\:\\TCC\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+base.2=C\:\\TCC\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.1=C\:\\TCC\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\TCC\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
