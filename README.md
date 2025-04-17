@@ -1,4 +1,4 @@
-# CorrijAI Frontend
+# CorrijAI-Frontend
 
 CorrijAI é uma aplicação moderna e eficiente que utiliza inteligência artificial para corrigir textos, fornecer feedback e melhorar a escrita. Este projeto foi desenvolvido com foco em usabilidade, performance e escalabilidade.
 
